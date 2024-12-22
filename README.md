@@ -57,7 +57,7 @@ In this section, the equations of motion for the inverted pendulum system are de
 The free body diagram of the cart is depicted follows:
 
 <p align="center">
-  <img src="" alt="Cart Free Body Diagram" width="1100">
+  <img src="https://github.com/user-attachments/assets/caee3ba7-0645-4ecd-a1f6-01750bfb19b0" alt="Cart Free Body Diagram" width="400">
 </p>
 
 #### Equations of Motion for the Cart
@@ -76,8 +76,9 @@ where:
 The free body diagram of the pendulum is depicted as follows:
 
 <p align="center">
-  <img src="" alt="Pendulum Free Body Diagram" width="1100">
+  <img src="https://github.com/user-attachments/assets/914cc94f-22d3-4351-8e06-c18f02a33be2" alt="Pendulum Free Body Diagram" width="300">
 </p>
+
 
 #### Equations of Motion for the Pendulum
 
