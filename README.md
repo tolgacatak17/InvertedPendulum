@@ -188,12 +188,12 @@ The organized form of the transfer function is as follows:
 
 This repository is organized as follows:
 
-1. **`code/`**: Contains the MATLAB scripts for modeling, linearizing, and simulating the inverted pendulum system. 
+1. **`figures/`**: Contains plots and visualizations of the system's behavior, including position, velocity, and control response.
+
+2. **`report/`**: Contains the detailed report explaining the mathematical model, methodology, linearization process, and analysis of results.
+
+3. **`src/`**: Contains the MATLAB scripts for modeling, linearizing, and simulating the inverted pendulum system. 
    - Includes both nonlinear and linearized models.
-
-2. **`figures/`**: Contains plots and visualizations of the system's behavior, including position, velocity, and control response.
-
-3. **`report/`**: Contains the detailed report explaining the mathematical model, methodology, linearization process, and analysis of results.
-
+   - 
 4. **`README.md`**: Provides an overview of the project, its objectives, and instructions for running the simulations and generating results.
 
