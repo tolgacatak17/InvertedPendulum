@@ -185,7 +185,7 @@ The organized form of the transfer function is as follows:
 
 ## Repository Structure
 
-The repository is organized as follows:
+This repository is organized as follows:
 
 1. **`code/`**: Contains the MATLAB scripts for modeling, linearizing, and simulating the inverted pendulum system. 
    - Includes both nonlinear and linearized models.
