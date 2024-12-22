@@ -194,6 +194,6 @@ This repository is organized as follows:
 
 3. **`src/`**: Contains the MATLAB scripts for modeling, linearizing, and simulating the inverted pendulum system. 
    - Includes both nonlinear and linearized models.
-   - 
+     
 4. **`README.md`**: Provides an overview of the project, its objectives, and instructions for running the simulations and generating results.
 
